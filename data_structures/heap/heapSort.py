@@ -1,4 +1,4 @@
-from data_structures.MaxHeap import MaxHeap
+from heap import MaxHeap
 
 def heapSort(arr):
 
